@@ -1,0 +1,30 @@
+{
+  "name": "vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "axios": "^1.6.2",
+    "element-plus": "^2.4.3",
+    "fs": "^0.0.1-security",
+    "gpxparser": "^3.0.8",
+    "ol": "^8.2.0",
+    "ol-proj-ch": "^1.0.4",
+    "particles": "^0.3.1",
+    "particles.vue3": "^2.12.0",
+    "proj4": "^2.9.2",
+    "vue": "^3.3.8",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.0",
+    "vite": "^5.0.6",
+    "vite-plugin-cesium": "^1.2.22"
+  }
+}
